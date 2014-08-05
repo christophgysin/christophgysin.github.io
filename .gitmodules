@@ -1,0 +1,3 @@
+[submodule "akkordzirkel"]
+	path = akkordzirkel
+	url = git@github.com:christophgysin/akkordzirkel.git
