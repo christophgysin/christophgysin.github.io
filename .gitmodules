@@ -1,3 +1,6 @@
 [submodule "akkordzirkel"]
 	path = akkordzirkel
 	url = https://github.com/christophgysin/akkordzirkel.git
+[submodule "bash-scripting"]
+	path = bash-scripting
+	url = https://github.com/christophgysin/bash-scripting.git
